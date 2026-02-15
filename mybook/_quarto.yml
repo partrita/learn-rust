@@ -1,0 +1,27 @@
+project:
+  type: book
+
+jupyter: rust
+
+book:
+  title: "슈퍼이지러스트"
+  author: "Taeyoon Kim"
+  date: "2/15/2026"
+  favicon: cover.png
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - user_input.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    number-sections: false
+  pdf:
+    documentclass: scrreprt

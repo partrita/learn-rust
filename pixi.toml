@@ -1,0 +1,15 @@
+[workspace]
+authors = ["fkt <deepthought@postech.ac.kr>"]
+channels = ["conda-forge"]
+name = "learn_rust"
+platforms = ["osx-arm64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+install = "evcxr_jupyter --install"
+
+[dependencies]
+rust = ">=1.90.0,<1.91"
+quarto = ">=1.8.27,<2"
+jupyter = ">=1.1.1,<2"
+evcxr = ">=0.21.1,<0.22"

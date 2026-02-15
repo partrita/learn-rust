@@ -1,0 +1,28 @@
+---
+title: "User Input"
+format: 
+  html:
+    code-copy: true
+    code-tools:
+      source: true
+---
+
+# 사용자 입력 받기
+
+사용자 입력을 받는 가장 쉬운 방법은 표준 라이브러리 `std::io::stdin`을 사용하는 것입니다.
+
+```{rust}
+use std::io;
+
+fn main() {
+    println!("Please enter your name: ");
+
+    let mut input = String::new();
+
+    io::stdin()
+        .read_line(&mut input)
+        .expect("Failed to read line");
+
+    println!("Hello, {}!", input.trim());
+}
+```

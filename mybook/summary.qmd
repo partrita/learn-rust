@@ -1,0 +1,11 @@
+---
+format: 
+  html:
+    code-copy: true
+    code-tools:
+      source: true
+---
+
+# Summary
+
+In summary, this book has no content whatsoever.

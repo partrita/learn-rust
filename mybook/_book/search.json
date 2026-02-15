@@ -1,0 +1,202 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "슈퍼이지러스트",
+    "section": "",
+    "text": "Preface\n데이브 매클라우드가 쓴 이지 러스트 책을 읽고 정리한 내용입니다.\n// Here's some Rust code\nfn main() {\n  println!(\"Hello, world!\");\n}\n\nmain();\n\nHello, world!",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#러스트-기초",
+    "href": "index.html#러스트-기초",
+    "title": "슈퍼이지러스트",
+    "section": "러스트 기초",
+    "text": "러스트 기초",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#메모리-변수-소유권",
+    "href": "index.html#메모리-변수-소유권",
+    "title": "슈퍼이지러스트",
+    "section": "메모리, 변수, 소유권",
+    "text": "메모리, 변수, 소유권",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#복잡한-타입",
+    "href": "index.html#복잡한-타입",
+    "title": "슈퍼이지러스트",
+    "section": "복잡한 타입",
+    "text": "복잡한 타입",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#제네릭",
+    "href": "index.html#제네릭",
+    "title": "슈퍼이지러스트",
+    "section": "제네릭",
+    "text": "제네릭",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#컬렉션-및-오류-핸들링-알아보기",
+    "href": "index.html#컬렉션-및-오류-핸들링-알아보기",
+    "title": "슈퍼이지러스트",
+    "section": "컬렉션 및 오류 핸들링 알아보기",
+    "text": "컬렉션 및 오류 핸들링 알아보기",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#트레이트",
+    "href": "index.html#트레이트",
+    "title": "슈퍼이지러스트",
+    "section": "트레이트",
+    "text": "트레이트",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#이터레이터와-클로저-기초",
+    "href": "index.html#이터레이터와-클로저-기초",
+    "title": "슈퍼이지러스트",
+    "section": "이터레이터와 클로저 기초",
+    "text": "이터레이터와 클로저 기초",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#이터레이터와-클로저-심화",
+    "href": "index.html#이터레이터와-클로저-심화",
+    "title": "슈퍼이지러스트",
+    "section": "이터레이터와 클로저 심화",
+    "text": "이터레이터와 클로저 심화",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#수명과-내부-가변성",
+    "href": "index.html#수명과-내부-가변성",
+    "title": "슈퍼이지러스트",
+    "section": "수명과 내부 가변성",
+    "text": "수명과 내부 가변성",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#다중-스레드와-고급-주제",
+    "href": "index.html#다중-스레드와-고급-주제",
+    "title": "슈퍼이지러스트",
+    "section": "다중 스레드와 고급 주제",
+    "text": "다중 스레드와 고급 주제",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#클로저-제네릭-스레드-심화",
+    "href": "index.html#클로저-제네릭-스레드-심화",
+    "title": "슈퍼이지러스트",
+    "section": "클로저, 제네릭, 스레드 심화",
+    "text": "클로저, 제네릭, 스레드 심화",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#box와-러스트-문서",
+    "href": "index.html#box와-러스트-문서",
+    "title": "슈퍼이지러스트",
+    "section": "Box와 러스트 문서",
+    "text": "Box와 러스트 문서",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#기본값-빌터-패턴-deref",
+    "href": "index.html#기본값-빌터-패턴-deref",
+    "title": "슈퍼이지러스트",
+    "section": "기본값, 빌터 패턴, Deref",
+    "text": "기본값, 빌터 패턴, Deref",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#코드-테스트와-빌드",
+    "href": "index.html#코드-테스트와-빌드",
+    "title": "슈퍼이지러스트",
+    "section": "코드 테스트와 빌드",
+    "text": "코드 테스트와 빌드",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#상수-안전하지-않은-러스트-외부-크레이트",
+    "href": "index.html#상수-안전하지-않은-러스트-외부-크레이트",
+    "title": "슈퍼이지러스트",
+    "section": "상수, 안전하지 않은 러스트, 외부 크레이트",
+    "text": "상수, 안전하지 않은 러스트, 외부 크레이트",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\n\n// Here's some Rust code\nfn main() {\n  let x: u32 = 42;\n  let x = 42;\n  let y: u32 = x;\n\n  fn add_one(x: u32) -&gt; u32 {\n    x + 1\n  }\n}\n\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "user_input.html",
+    "href": "user_input.html",
+    "title": "2  User Input",
+    "section": "",
+    "text": "3 사용자 입력 받기\n사용자 입력을 받는 가장 쉬운 방법은 표준 라이브러리 std::io::stdin을 사용하는 것입니다.\n\nuse std::io;\n\nfn main() {\n    println!(\"Please enter your name: \");\n\n    let mut input = String::new();\n\n    io::stdin()\n        .read_line(&mut input)\n        .expect(\"Failed to read line\");\n\n    println!(\"Hello, {}!\", input.trim());\n}",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>User Input</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

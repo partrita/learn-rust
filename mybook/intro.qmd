@@ -1,0 +1,26 @@
+---
+format: 
+  html:
+    code-copy: true
+    code-tools:
+      source: true
+---
+
+# Introduction
+
+This is a book created from markdown and executable code.
+
+```{rust}
+// Here's some Rust code
+fn main() {
+  let x: u32 = 42;
+  let x = 42;
+  let y: u32 = x;
+
+  fn add_one(x: u32) -> u32 {
+    x + 1
+  }
+}
+```
+
+See @knuth84 for additional discussion of literate programming.
