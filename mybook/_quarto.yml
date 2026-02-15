@@ -11,7 +11,8 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - user_input.qmd
+    - basic-syntax.qmd
+    - user-input.qmd
     - summary.qmd
     - references.qmd
 

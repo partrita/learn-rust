@@ -1,0 +1,11 @@
+---
+title: "메모리, 변수, 소유권"
+format: 
+  html:
+    code-copy: true
+    code-tools:
+      source: true
+---
+
+# 스택, 힙, 포인터
+
